@@ -1,0 +1,20 @@
+# executables / binaries
+psdd
+psdd_ec
+example
+shm_proc
+ref_psdd
+
+# object files / build artifacts
+*.o
+*.out
+*.exe
+
+# mmap/logs/temp
+*.mem
+*.log
+log.txt
+
+# OS/editor
+.DS_Store
+*.swp
